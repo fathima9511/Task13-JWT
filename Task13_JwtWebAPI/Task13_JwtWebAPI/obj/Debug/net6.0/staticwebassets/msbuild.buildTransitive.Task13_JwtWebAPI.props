@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Task13_JwtWebAPI.props" />
+</Project>

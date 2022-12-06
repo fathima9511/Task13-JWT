@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Task13_JwtWebAPI.props" />
+</Project>
